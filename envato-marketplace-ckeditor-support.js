@@ -4,6 +4,8 @@
 // @homepage	    http://codecanyon.net/user/scrobbleme/portfolio?ref=scrobbleme
 // @namespace		scrobble.me
 // @date			2014-12-13
+// @downloadURL     https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.js
+// @updateURL       https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.js
 // @version			1.0.0
 // @include			http://activeden.net*
 // @include			http://audiojungle.net*
