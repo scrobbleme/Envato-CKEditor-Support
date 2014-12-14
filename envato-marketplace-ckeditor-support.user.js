@@ -6,8 +6,8 @@
 // @contributionURL   http://codecanyon.net/user/scrobbleme/portfolio?ref=scrobbleme
 // @namespace       scrobble.me
 // @date            2014-12-14
-// @downloadURL     https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.js
-// @updateURL       https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.js
+// @downloadURL     https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.user.js
+// @updateURL       https://raw.githubusercontent.com/scrobbleme/Envato-CKEditor-Support/master/envato-marketplace-ckeditor-support.user.js
 // @version         1.1.0
 // @include         http://activeden.net*
 // @include         http://audiojungle.net*
