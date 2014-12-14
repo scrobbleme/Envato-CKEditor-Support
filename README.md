@@ -23,9 +23,12 @@ Installation
 
 Please contribute!
 
-### Chrome + X 
+### Chrome + Tampermonkey
 
-Please contribute!
+1. Install Tampoermonkey from https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+2. Open Tampoermonkey monkey and visit editory
+3. Copy and paste the content from [envato-marketplace-ckeditor-support.js](https://github.com/scrobbleme/Envato-CKEditor-Support/raw/master/envato-marketplace-ckeditor-support.js)
+4. Click save
 
 ### IE 
 
